@@ -5,7 +5,7 @@ $k = \frac{1}{2}m \dot{x}^2$
 # header
 ## subheader
 
-[google](www.google.com)
+[google](https://www.google.com/)
 
 - item 1
 - item 2
